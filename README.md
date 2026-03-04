@@ -4,15 +4,12 @@
 
 ### 🚀 Recent Repository Activity
 <!-- RECENT_ACTIVITY:START -->
-🔥 **[dashboard](https://github.com/Care-Alarm/dashboard)** (Python) - 📊 Care-Alarm Organization Dashboard - Live overview of repositories, builds, and...
-   ⭐ 0 stars • Updated today
+No recent activity found.
 <!-- RECENT_ACTIVITY:END -->
 
 ### 🔨 Recent Builds & Deployments
 <!-- BUILD_STATUS:START -->
-**dashboard**
-   🟡 Update GitHub Dashboard on `main` • today
-   ✅ Update GitHub Dashboard on `main` • today
+No recent builds found.
 <!-- BUILD_STATUS:END -->
 
 ### 👥 Team Members
@@ -22,7 +19,7 @@ No team members found.
 
 ### 📦 Active Repositories
 <!-- ACTIVE_REPOS:START -->
-🌐 **[dashboard](https://github.com/Care-Alarm/dashboard)** (Python) - ⭐ 0
+No repositories found.
 <!-- ACTIVE_REPOS:END -->
 
 ### 🏷️ Latest Releases
@@ -32,7 +29,7 @@ No recent releases found.
 
 ### 💻 Organization Languages
 <!-- ORG_LANGUAGES:START -->
-**Python** (1 repos, 100.0%)
+No language data available.
 <!-- ORG_LANGUAGES:END -->
 
 ---
