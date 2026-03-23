@@ -11,7 +11,7 @@
 ### 🔨 Recent Builds & Deployments
 <!-- BUILD_STATUS:START -->
 **dashboard**
-   🟡 Update GitHub Dashboard on `main` • today
+   ❓ Update GitHub Dashboard on `main` • today
    ✅ Update GitHub Dashboard on `main` • today
 <!-- BUILD_STATUS:END -->
 
