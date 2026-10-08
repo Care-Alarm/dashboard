@@ -5,7 +5,7 @@
 ### 🚀 Recent Repository Activity
 <!-- RECENT_ACTIVITY:START -->
 🔥 **[dashboard](https://github.com/Care-Alarm/dashboard)** (Python) - 📊 Care-Alarm Organization Dashboard - Live overview of repositories, builds, and...
-   ⭐ 0 stars • Updated today
+   ⭐ 0 stars • Updated yesterday
 <!-- RECENT_ACTIVITY:END -->
 
 ### 🔨 Recent Builds & Deployments
